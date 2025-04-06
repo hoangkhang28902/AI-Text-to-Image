@@ -10,7 +10,7 @@ const gridGallery = document.querySelector(".gallery-grid");
 
 const generationBtn = document.querySelector(".generate-btn");
 
-const API_KEY = "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";
+const API_KEY = "your API";
 
 const examprompt = [
     "A magic forest with glowing plants and fairy homes among giant mushrooms",
